@@ -1,0 +1,80 @@
+Percentage: 10.0%
+Testing: 
+Stdev: 0.3651483716701131%
+Mean: 48.266666666666666%
+Validating: 
+Stdev: 1.3778366347726079%
+Mean: 49.435215946843854%
+
+Percentage: 20.0%
+Testing: 
+Stdev: 9.665517173034363%
+Mean: 55.46666666666666%
+Validating: 
+Stdev: 6.998068976030019%
+Mean: 53.55481727574751%
+
+Percentage: 30.0%
+Testing: 
+Stdev: 5.981452814975453%
+Mean: 58.666666666666664%
+Validating: 
+Stdev: 5.557217049862172%
+Mean: 56.013289036544855%
+
+Percentage: 40.0%
+Testing: 
+Stdev: 5.44875113112068%
+Mean: 53.733333333333334%
+Validating: 
+Stdev: 5.766775839186977%
+Mean: 53.35548172757475%
+
+Percentage: 50.0%
+Testing: 
+Stdev: 6.066300355241239%
+Mean: 54.400000000000006%
+Validating: 
+Stdev: 3.2432464749144927%
+Mean: 53.02325581395348%
+
+Percentage: 60.0%
+Testing: 
+Stdev: 9.802494013713497%
+Mean: 68.13333333333334%
+Validating: 
+Stdev: 7.1809999128804245%
+Mean: 66.71096345514951%
+
+Percentage: 70.0%
+Testing: 
+Stdev: 5.688194402053746%
+Mean: 61.06666666666667%
+Validating: 
+Stdev: 5.17675778891228%
+Mean: 59.60132890365448%
+
+Percentage: 80.0%
+Testing: 
+Stdev: 6.969776020632068%
+Mean: 71.06666666666666%
+Validating: 
+Stdev: 7.972037532086613%
+Mean: 70.96345514950167%
+
+Percentage: 90.0%
+Testing: 
+Stdev: 4.447221354708778%
+Mean: 76.66666666666666%
+Validating: 
+Stdev: 2.620165335964167%
+Mean: 74.8172757475083%
+
+Percentage: 100.0%
+Testing: 
+Stdev: 1.4452988925785883%
+Mean: 81.2%
+Validating: 
+Stdev: 0.4331695950300792%
+Mean: 81.12956810631229%
+

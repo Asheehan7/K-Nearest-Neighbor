@@ -1,0 +1,91 @@
+K: 3
+Percent 10:
+0.682
+Percent 20:
+0.735
+Percent 30:
+0.763
+Percent 40:
+0.785
+Percent 50:
+0.79
+Percent 60:
+0.798
+Percent 70:
+0.807
+Percent 80:
+0.813
+Percent 90:
+0.822
+Percent 100:
+0.831
+
+K: 3
+Percent 10:
+0.708
+Percent 20:
+0.765
+Percent 30:
+0.783
+Percent 40:
+0.797
+Percent 50:
+0.798
+Percent 60:
+0.811
+Percent 70:
+0.827
+Percent 80:
+0.832
+Percent 90:
+0.838
+Percent 100:
+0.843
+
+
+K: 101
+Percent 10:
+0.5647840531561462
+Percent 20:
+0.49169435215946844
+Percent 30:
+0.4850498338870432
+Percent 40:
+0.4983388704318937
+Percent 50:
+0.49169435215946844
+Percent 60:
+0.4983388704318937
+Percent 70:
+0.5282392026578073
+Percent 80:
+0.6976744186046512
+Percent 90:
+0.7940199335548173
+Percent 100:
+0.7508305647840532
+
+K: 101
+Percent 10:
+0.5733333333333334
+Percent 20:
+0.49333333333333335
+Percent 30:
+0.4866666666666667
+Percent 40:
+0.5
+Percent 50:
+0.49333333333333335
+Percent 60:
+0.52
+Percent 70:
+0.54
+Percent 80:
+0.7066666666666667
+Percent 90:
+0.8133333333333334
+Percent 100:
+0.8066666666666666
+
+
+
