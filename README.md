@@ -10,8 +10,7 @@ Sample:
 KNN.py 100 digit 7
 
 
-#Driver
-Will run a desired test with a chosen k using 10-100% of the training material
+Driver: Will run a desired test with a chosen k using 10-100% of the training material
 
 Run with the arguments:
 Test Type: Digit or Face
